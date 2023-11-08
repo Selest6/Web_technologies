@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Знаменитые поэты XX в.</title>
+</head>
+
+<body bgcolor="#F5F5F5"> <!-- #C5D0E6, lightblue #E6E6E6-->
+
+<h3 align="center">Здесь Вы можете заполнить обращение с целью добавления какого-либо поэта на сайт</h3>
+<table align="center" border=1 cellpadding="5" cellspacing="1" width="600px">
+
+    <thead>
+        <tr>
+            <th colspan="1">Навигационная панель сайта</th>
+        </tr>
+    </thead>
+
+    <tr>
+        <td>
+            <ul>
+                <li><a href="menu.html" target="_self">Главная страница</a></li>
+                <li><p>Поэты:</p></li>
+                <ol>
+                    <li><a href="Mayakovskiystr.html" target="_self">Владимир Маяковский</a></li>
+                    <li><a href="Eseninstr.html" target="_self">Сергей Есенин</a></li>
+                    <li><a href="Ahmatovastr.html" target="_self">Анна Ахматова</a></li>
+                    <li><a href="Tsvetaevastr.html" target="_self">Марина Цветаева</a></li>
+                </ol>
+                <p></p>
+                <li><a href="forms.html" target="_self"><b>Предложить поэта</b></a></li>
+            </ul>
+        </td>
+    </tr>
+
+</table>
+<p></p>
+<table align="center" border=1 cellpadding="5" cellspacing="1" width="900px">
+
+    <thead>
+        <tr>
+            <th colspan="1"><h2>Пожалуйста, заполните свои контактные данные</h2></th>
+        </tr>
+    </thead>
+
+    <tr>
+        <td>
+            <form action="https://www.bing.com/search?" id="UserEnter" name="UserEnter" target="_blank">
+                <p>Для поисковика:<input type="Text"  name="q" value="search"></p>
+                <p>Фамилия: <input type="Text" name="last_name" size=20 value="Иванов"></p>
+                <p>Имя: <input type="Text" name="name" size=20 value="Иван"></p>
+                <p>Мобильный телефон: <input type="number" name="number" size=20 value=89193542266></p>
+                <p>Электронная почта: <input type="Text" name="email" size=20 value="pochta@gmail.com"></p>
+                <p>Дата отправки анкеты: <input type="date" name="date" size=20 value="2001-01-01"></p>
+
+        </td>
+    </tr>
+
+    <thead>
+        <tr>
+            <th colspan="1"><h2>Пожалуйста, заполните данные о поэте, стихи которого вы хотели бы внести в базу данных</h2></th>
+        </tr>
+    </thead>
+
+    <tr>
+        <td>
+            <p>Имя и фамилия поэта: <input type="Text" name="poet_name" size=20 value="Иван Иванов"></p>
+            <p>Годы творчества: <input type="number" name="date_of_creating" size=20></p>
+            <p>Характеристика поэта:
+                <input type="Radio" name="fatherland" value="Foreign">Зарубежный
+                <input type="Radio" name="fatherland" value="Russian" checked>Русский
+            </p>
+            
+            <p>Литературное(-ые) течение(-я), к которому(-ым) относится творчество поэта:
+                <input type="Checkbox" name="direction" value="Classicism">Классицизм
+                <input type="Checkbox"  name="direction" value="Sentimentalism">Сентиментализм
+                <input type="Checkbox" name="direction" value="Romantism">Романтизм
+                <input type="Checkbox" name="directione" value="Realism">Реализм
+                <input type="Checkbox" name="direction" value="Modernism">Модернизм
+                <input type="Checkbox" name="direction" value="Socialrealism">Соцреализм
+                <input type="Checkbox" name="direction" value="Postmodernism">Постмодернизм
+                <input type="Checkbox" name="direction" value="Other">Другое
+            </p>
+
+            <p>Дата рождения поэта: <input type="date" name="birthday_date" size=20 value="2001-01-01"></p>
+            <p>Дата смерти поэта: <input type="date" name="death_date" size=20 value="2001-01-01"></p>
+            <p> Напишите стих(и) поэта, который(е) Вы хотели бы добавить на сайт:
+                <br>
+                <TEXTAREA cols=80 name="poems" rows=4>Писать здесь</TEXTAREA>
+            </p>
+            <p>Придумайте пароль, по которому мы в дальнейшем сможем идентифицировать Вас и Ваш запрос: <input type="password" name="password" size=20 value="111"></p>
+            
+            <input type="hidden" name="page_type" value="form_page">
+        
+            <p>
+                <input type="Reset"  name="Reset"  value="Сбросить">
+                <input type="Submit" name="submit"  value="Отправить">
+            </p>
+        
+        </form>
+
+        </td>
+    </tr>
+
+</form>
+</table>
+
+</body>
+</html>
