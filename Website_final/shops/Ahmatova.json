@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "title": "Сборник 1",
+      "vendor_code": "111",
+      "description": "Полное собрание поэзии и прозы в одном томе",
+      "price": 1000,
+      "img": "./images/Ahmatova/1.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Сборник 2",
+      "vendor_code": "222",
+      "description": "'Двадцать первое. Ночь. Понедельник...'",
+      "price": 200,
+      "img": "./images/Ahmatova/2.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Сборник 3",
+      "vendor_code": "333",
+      "description": "'Я зажгла заветные свечи...'",
+      "price": 400,
+      "img": "./images/Ahmatova/3.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Сборник 4",
+      "vendor_code": "444e",
+      "description": "'Сжала руки под тёмной вуалью...'",
+      "price": 500,
+      "img": "./images/Ahmatova/4.jpeg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Сборник 5",
+      "vendor_code": "4445e",
+      "description": "Бег времени",
+      "price": 500,
+      "img": "./images/Ahmatova/5.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Сборник 6",
+      "vendor_code": "4446e",
+      "description": "'А я говорю, вероятно, за многих...'",
+      "price": 200,
+      "img": "./images/Ahmatova/6.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Сборник 7",
+      "vendor_code": "4447e",
+      "description": "Стихотворения и поэмы",
+      "price": 700,
+      "img": "./images/Ahmatova/7.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Сборник 8",
+      "vendor_code": "4448e",
+      "description": "Бег времени",
+      "price": 600,
+      "img": "./images/Ahmatova/8.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Сборник 9",
+      "vendor_code": "444e",
+      "description": "Бег времени",
+      "price": 200,
+      "img": "./images/Ahmatova/9.jpeg"
+    }
+    ,
+    {
+      "id": "10",
+      "title": "Сборник 10",
+      "vendor_code": "44410e",
+      "description": "'В то время я гостила на земле...'",
+      "price": 400,
+      "img": "./images/Ahmatova/10.jpeg"
+    }
+  ]

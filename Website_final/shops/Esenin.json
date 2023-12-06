@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "title": "Сборник 1",
+      "vendor_code": "111",
+      "description": "'Не жалею, не зову, не плачу...'",
+      "price": 200,
+      "img": "./images/Esenin/1.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Сборник 2",
+      "vendor_code": "222",
+      "description": "Стихотворения",
+      "price": 500,
+      "img": "./images/Esenin/2.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Сборник 3",
+      "vendor_code": "333",
+      "description": "Избранное",
+      "price": 200,
+      "img": "./images/Esenin/3.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Сборник 4",
+      "vendor_code": "444e",
+      "description": "'Мне осталась одна забава...'",
+      "price": 300,
+      "img": "./images/Esenin/4.jpeg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Сборник 5",
+      "vendor_code": "4445e",
+      "description": "'Клен ты мой опавший...'",
+      "price": 100,
+      "img": "./images/Esenin/5.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Сборник 6",
+      "vendor_code": "4446e",
+      "description": "Исповедь хулигана",
+      "price": 200,
+      "img": "./images/Esenin/6.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Сборник 7",
+      "vendor_code": "4447e",
+      "description": "Стихи",
+      "price": 500,
+      "img": "./images/Esenin/7.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Сборник 8",
+      "vendor_code": "4448e",
+      "description": "Исповедь хулигана",
+      "price": 400,
+      "img": "./images/Esenin/8.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Сборник 9",
+      "vendor_code": "444e",
+      "description": "'Не жалею, не зову, не плачу'",
+      "price": 300,
+      "img": "./images/Esenin/9.jpeg"
+    }
+    ,
+    {
+      "id": "10",
+      "title": "Сборник 10",
+      "vendor_code": "44410e",
+      "description": "'Сыплет черёмуха снегом...'",
+      "price": 400,
+      "img": "./images/Esenin/10.jpeg"
+    }
+  ]

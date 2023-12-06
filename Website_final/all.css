@@ -1,0 +1,67 @@
+body {
+    background-image: url("./bgs/menu.jpg");
+    background-size: cover; /* Растягивает фон, чтобы он покрыл всю область */
+    background-position: center; /* Выравнивает фон по центру */
+    background-repeat: no-repeat; /* Отключает повторение фона */
+    height: 100%; /* Высота равная 100% высоты окна браузера */
+    margin: 0; /* Убирает внешние отступы */
+}
+
+#menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: fit-content; /* Ширина будет равна ширине содержимого (в данном случае, изображения) */
+    margin: 0 auto; /* Центрирует карточку на экране, если нужно */
+    flex: 1;
+    justify-content: center;
+    background: transparent;
+    border: none;
+}
+
+.scale {
+transition: 1s; /* Время эффекта */
+}
+.scale:hover {
+transform: scale(1.2); /* Увеличиваем масштаб */
+}
+
+.link12 {
+    background: #f0f2f2; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    transition: 1s linear; /* Время изменения */
+}
+
+.link12:hover {
+        color: #ffffff; /* Цвет текста */
+        background: #909090; /* Цвет фона */
+    }
+
+.grey {
+    color: #3f3f3f
+}
+
+#invisible {
+    background: transparent;
+    border: none;
+}
+
+.cursive {
+    font-style: italic;
+}
+
+.activated {
+    color: #ffffff; /* Цвет текста */
+    background: #c0bfbf; /* Цвет фона */
+}
+
+.cent-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+  

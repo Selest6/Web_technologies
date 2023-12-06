@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "title": "Сборник 1",
+      "vendor_code": "111",
+      "description": "'Хорошо!'",
+      "price": 200,
+      "img": "./images/Mayakovskiy/1.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Сборник 2",
+      "vendor_code": "222",
+      "description": "Малое собрание сочинений",
+      "price": 400,
+      "img": "./images/Mayakovskiy/2.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Сборник 3",
+      "vendor_code": "333",
+      "description": "'Люблю'",
+      "price": 300,
+      "img": "./images/Mayakovskiy/3.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Сборник 4",
+      "vendor_code": "444e",
+      "description": "'Кроме любви твоей, мне нету солнца'",
+      "price": 400,
+      "img": "./images/Mayakovskiy/4.jpeg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Сборник 5",
+      "vendor_code": "4445e",
+      "description": "Стихотворения",
+      "price": 200,
+      "img": "./images/Mayakovskiy/5.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Сборник 6",
+      "vendor_code": "4446e",
+      "description": "Стихотворения и поэмы",
+      "price": 400,
+      "img": "./images/Mayakovskiy/6.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Сборник 7",
+      "vendor_code": "4447e",
+      "description": "'Я!'",
+      "price": 100,
+      "img": "./images/Mayakovskiy/7.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Сборник 8",
+      "vendor_code": "4448e",
+      "description": "Во весь голос",
+      "price": 100,
+      "img": "./images/Mayakovskiy/8.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Сборник 9",
+      "vendor_code": "444e",
+      "description": "'Ешь ананасы, рябчиков жуй...'",
+      "price": 400,
+      "img": "./images/Mayakovskiy/9.jpeg"
+    }
+    ,
+    {
+      "id": "10",
+      "title": "Сборник 10",
+      "vendor_code": "44410e",
+      "description": "Во весь голос",
+      "price": 200,
+      "img": "./images/Mayakovskiy/10.jpeg"
+    }
+  ]
